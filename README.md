@@ -39,7 +39,6 @@ All of the images have been obtained from [Sentinel Hub](https://www.sentinel-hu
 
 ## Contributors
 
-Contributors:
 <!-- Contributors List -->
 <table>
   <tr>
