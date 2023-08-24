@@ -1,8 +1,13 @@
 # sen2ships
 
+
 A dataset of 20 labelled images in COCO format from ports around the world intended for vessel detection
 
 Annotation tool used: [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat)  
+
+![alt text](https://github.com/ShipDetectionExperts/sen2ships/blob/main/sen2ships_logo.png)
+
+
 
 ## Locations
 
