@@ -1,0 +1,2 @@
+2023-08-23-00:00_2023-08-23-23:59_Sentinel-2_L2A_NDWI
+valencia_rgb

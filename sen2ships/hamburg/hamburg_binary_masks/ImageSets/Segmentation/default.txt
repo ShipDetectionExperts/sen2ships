@@ -1,0 +1,2 @@
+2023-06-08-00:00_2023-06-08-23:59_Sentinel-2_L2A_NDWI
+hamburg_rgb

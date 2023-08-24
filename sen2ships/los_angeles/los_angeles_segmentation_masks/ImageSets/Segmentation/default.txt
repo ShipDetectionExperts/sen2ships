@@ -1,0 +1,2 @@
+2023-07-12-00:00_2023-07-12-23:59_Sentinel-2_L2A_NDWI
+los_angeles_rgb
