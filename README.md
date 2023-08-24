@@ -24,16 +24,17 @@ All of the images have been obtained from [Sentinel Hub](https://www.sentinel-hu
 
 | Attribute                | Information                  |
 |--------------------------|------------------------------|
+| Data Source and Provider | European Space Agency (ESA)  |
+| Satellite and Sensor     | Sentinel-2A                  |
 | Resolution               | 10 meters                    |
 | Processing Level         | Level-2A                     |
 | Acquisition Date and Time| Variable                     |
-| Satellite and Sensor     | Sentinel-2A                  |
+| Cloud Cover Percentage   | Variable                     |
 | Spectral Bands           | B2, B3, B4, B8, B11,         |
 | Composites               | True Color, SWIR, NDWI       |
-| Cloud Cover Percentage   | Variable                     |
 | Projection and Coordinate System | EPSG 3857 Web Mercator    |
 | Data Format              | TIFF                         |
 | Bits Per Pixel           | 16-bit                       |
-| Data Source and Provider | European Space Agency (ESA)  |
+
 
 
